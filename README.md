@@ -53,7 +53,8 @@ Give the desired inputs for timing diagram and finally get the result.
 Program for flipflops and verify its truth table in quartus using verilog.
 Developed by: Shakthi kumar S
 Register number: 212222110043
-*/module mul(out,a,b);
+*/
+module mul(out,a,b);
 input[15:0]a;
 input[3:0]b;
 output reg out;
