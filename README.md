@@ -48,7 +48,7 @@ Create university program (VWF) to get timing diagram.
 Give the desired inputs for timing diagram and finally get the result.
 
 ## PROGRAM
-```c
+```c++
 /*
 Program for flipflops and verify its truth table in quartus using verilog.
 Developed by: Shakthi kumar S
